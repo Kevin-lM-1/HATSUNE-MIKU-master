@@ -15,7 +15,7 @@ let rtotalreg = Object.values(global.db.data.users).filter(user => user.register
 let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `╭━━〘𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓〙
+let str = `╭━━〘𝒜𝒩𝐼𝒯𝒜-𝐵𝒪𝒯〙
 ┃ ⛥╭──────────────      
 ┃ ⛥│๖ۜ͜𝐇𝐨𝐥𝐚ঔৣֳ᷌᷈͜͡ ${taguser}💖✨ 
 ┃ ⛥│⌚𝐓𝐈𝐄𝐌𝐏𝐎 𝐀𝐂𝐓𝐈𝐕𝐎 ${uptime}
@@ -45,7 +45,7 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title: '⛄𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓🔮',
+title: '⛄𝒜𝒩𝐼𝒯𝒜-𝐵𝒪𝒯🔮',
 body: null,
 thumbnail: img,
 sourceUrl: `https://youtu.be/HoxZukeMM`

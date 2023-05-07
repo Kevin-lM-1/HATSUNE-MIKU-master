@@ -40,7 +40,7 @@ let buttonMessage= {
 'footer': wm,
 'buttons':[
 {buttonId: `${usedPrefix}sc`, buttonText: {displayText: '🧿ɢɪᴛʜᴜʙ🏓'}, type: 1}, 
-{buttonId: `${usedPrefix}yovani`, buttonText: {displayText: '🤴ᴄᴏɴᴛᴀᴄᴛᴏ🧿'}, type: 1}],
+{buttonId: `${usedPrefix}kev`, buttonText: {displayText: '🤴ᴄᴏɴᴛᴀᴄᴛᴏ🧿'}, type: 1}],
 'headerType': 6 }
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })}
 handler.command = ['instalarbot','script']

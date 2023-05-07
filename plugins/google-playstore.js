@@ -10,7 +10,7 @@ let loll = await lol.json()
 let mystic = loll.result.translated
 if (!gPlay.titulo) return m.reply(`[ ! ] Sin resultados`)
 conn.sendMessage(m.chat,{image:{url: gPlay.imagen},caption:`
-╭━〘𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓〙━⊷ 
+╭━〘𝒜𝒩𝐼𝒯𝒜-𝐵𝒪𝒯〙━⊷ 
 ┃ ⛥│◦➛🔍 Resultado: ${gPlay.titulo}
 ┃ ⛥│◦➛🧬 Identificador: ${gPlay.id}
 ┃ ⛥│◦➛⛓️ Link: ${gPlay.link}

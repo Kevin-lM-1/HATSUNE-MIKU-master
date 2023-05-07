@@ -10,7 +10,7 @@ let before = user.level * 1
 while (canLevelUp(user.level, user.exp, global.multiplier)) user.level++
  if (before !== user.level) {
  
-conn.sendButton(m.chat, '⛄' + wm, `╭━〘𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓〙━⊷ 
+conn.sendButton(m.chat, '⛄' + wm, `╭━〘𝒜𝒩𝐼𝒯𝒜-𝐵𝒪𝒯〙━⊷ 
 ┃ ⛥││🥳ғᴇʟɪᴄɪᴅᴀᴅᴇs ʜᴀ sᴜʙɪᴅᴏ ᴅᴇ ɴɪᴠᴇʟ 
 ┃ ⛥││🔸ɴɪᴠᴇʟ ᴀɴᴛᴇʀɪᴏʀ:${before}
 ┃ ⛥││⬆️ɴɪᴠᴇʟ ᴀᴄᴛᴜᴀʟ${user.level}

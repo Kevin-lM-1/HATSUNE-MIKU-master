@@ -5,7 +5,7 @@ let res = await fetch(global.API('https://covid19.mathdro.id', '/api/countries/'
 if (!res.ok) throw await res.text()
 let json = await res.json()
 if (!json.confirmed) throw 'País?'
-if (json.confirmed) m.reply(`╭━〘𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓〙━⊷ 
+if (json.confirmed) m.reply(`╭━〘𝒜𝒩𝐼𝒯𝒜-𝐵𝒪𝒯〙━⊷ 
 ┃ ⛥│🌏 País : ${text}
 ┃ ⛥│✅Confirmado : ${json.confirmed.value}
 ┃ ⛥│📉curado : ${json.recovered.value}

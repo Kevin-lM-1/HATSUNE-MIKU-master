@@ -16,7 +16,7 @@ let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `╭─────────────◆ 
-┃ ✯〘𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓〙
+┃ ✯〘𝒜𝒩𝐼𝒯𝒜-𝐵𝒪𝒯〙
 ┃ ✯╭──────────◆
 ┃ ✯│▢ʜᴏʟᴀ:${taguser}
 ┃ ✯│▢ᴏᴡɴᴇʀ:kev
@@ -48,7 +48,7 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title: '⛄𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓🍁',
+title: '⛄𝒜𝒩𝐼𝒯𝒜-𝐵𝒪𝒯🍁',
 body: null,
 thumbnail: img,
 sourceUrl: `https://youtu.be/HoxZuQokeMM`

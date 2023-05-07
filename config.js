@@ -62,11 +62,11 @@ global.APIKeys = {
   'https://anabotofc.herokuapp.com/': 'AnaBot'
 }
 
-global.packname = '𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓'
+global.packname = '𝓐𝓝𝓘𝓣𝓐-𝓑𝓞𝓣𝐎𝐓'
 global.author = '©ᴏғᴄ-kev﹏✍'
 global.vs = '1.10.90'
 global.version = vs
-global.gt = '⫷᭄𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓﹏✍'
+global.gt = '⫷᭄𝓐𝓝𝓘𝓣𝓐-𝓑𝓞𝓣𝐎𝐓﹏✍'
 global.hadesbot = gt
 global.yt = 'https://youtu.be'
 global.youtube = yt
@@ -95,8 +95,8 @@ global.envio = eeg
 global.eg = '*🍀ʀᴇsᴜʟᴛᴀᴅᴏ ᴇɴᴄᴏɴᴛʀᴀᴅᴏ✨*'
 global.exito = eg
 
-global.wm = '©ᴏғᴄ-kev﹏✍\n⫷᭄𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓﹏✍'
-global.igfg = '⫷᭄𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓﹏✍'
+global.wm = '©ᴏғᴄ-kev﹏✍\n⫷᭄𝓐𝓝𝓘𝓣𝓐-𝓑𝓞𝓣𝐎𝐓﹏✍'
+global.igfg = '⫷᭄𝓐𝓝𝓘𝓣𝓐-𝓑𝓞𝓣𝐎𝐓﹏✍'
 global.wait = '⌛ _Cargando..._\n▰▰▰▱▱▱▱▱▱'
 
 global.imagen1 = fs.readFileSync('./src/Menu2.jpg')

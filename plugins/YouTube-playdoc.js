@@ -13,7 +13,7 @@ const buttons = [
 { buttonId: `#ytmp3doc ${urll}`, buttonText: { displayText: '𝐀𝐔𝐃𝐈𝐎𝐃𝐎𝐂' }, type: 1 },
 { buttonId: `#ytmp4doc ${urll}`, buttonText: { displayText: '𝐕𝐈𝐃𝐄𝐎𝐃𝐎𝐂' }, type: 1 },
 { buttonId: `#playdocumento ${text}`, buttonText: { displayText: '𝐌𝐀𝐒 𝐑𝐄𝐒𝐔𝐋𝐓𝐀𝐃𝐎𝐒' }, type: 1 }, ] 
-let texto1 = `╭━〘𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓〙
+let texto1 = `╭━〘𝒜𝒩𝐼𝒯𝒜-𝐵𝒪𝒯〙
 ┃ ⛥│❏ 🥀𝐏𝐋𝐀𝐘-𝐃𝐎𝐂𝐔𝐌𝐄𝐍𝐓🍃
 ┃ ⛥│❏ 📌 *𝚃𝙸𝚃𝚄𝙻𝙾:* ${title}
 ┃ ⛥│❏ 📆 *𝙿𝚄𝙱𝙻𝙸𝙲𝙰𝙳𝙾:* ${publishedTime}

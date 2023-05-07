@@ -2,7 +2,7 @@
 let handler = async (m, { conn, usedPrefix }) => {
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
-let texto1 = `╭━〘𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓〙━⊷
+let texto1 = `╭━〘𝒜𝒩𝐼𝒯𝒜-𝐵𝒪𝒯〙━⊷
 ┃ ⛥│◦➛📔ᩭ✎📈
 ┃ ⛥│◦➛🍀ᩭ✎𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁
 ┃ ⛥│◦➛📚ᩭ✎http://wa.me/573001382233 
@@ -11,7 +11,7 @@ let texto1 = `╭━〘𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎�
 let buttonMessage= {
 'document': { url: `https://youtu.be/4eA5jOA` },
 'mimetype': `application/${document}`,
-'fileName': `𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓`,
+'fileName': `𝒜𝒩𝐼𝒯𝒜-𝐵𝒪𝒯`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
